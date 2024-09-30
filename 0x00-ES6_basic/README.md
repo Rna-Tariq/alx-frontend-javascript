@@ -30,13 +30,3 @@ JavaScript (ES6)
 HTML5 (if applicable)
 
 CSS3 (if applicable)
-
-
-## Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed:
-- A modern web browser
-- A code editor (VS Code, Sublime Text, etc.)
-
