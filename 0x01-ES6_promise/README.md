@@ -8,15 +8,6 @@ In JavaScript, **Promises** represent the completion or failure of an asynchrono
 - [What are Promises?](#what-are-promises)
 - [Why Use Promises?](#why-use-promises)
 - [How to Use Promises](#how-to-use-promises)
-- [Methods of the Promise Object](#methods-of-the-promise-object)
-  - [then()](#then)
-  - [resolve()](#resolve)
-  - [catch()](#catch)
-  - [finally()](#finally)
-- [Throw / Try](#throw-try)
-- [The await Operator](#the-await-operator)
-- [How to Use an Async Function](#how-to-use-an-async-function)
-
 ---
 
 ## What are Promises?
